@@ -1,1 +1,3 @@
-inicio1
+$(function(){
+	
+});
